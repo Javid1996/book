@@ -2,4 +2,9 @@
   text-align: center;
   margin: 50px auto;
 }
+.navbar{
+  width: auto;
+  height: 100px;
+  background-color: azure;
 
+}
